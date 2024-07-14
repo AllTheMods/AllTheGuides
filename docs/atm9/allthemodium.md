@@ -1,18 +1,18 @@
 ---
-title: AllTheModium
-description: AllTheModium Documentation
+title: Allthemodium
+description: Allthemodium Documentation
 authors:
 ---
 
-# AllTheModium
+# Allthemodium
 
-In **ATM9**, All The Modium has changed in ways different from previous packs. We'll explain where to find, how to obtain, and how **Templates** works to craft armor & tools!
+In **ATM9**, Allthemodium has changed in ways different from previous packs. We'll explain where to find, how to obtain, and how **Templates** works to craft armor & tools!
 
 ### Where & How
 
-**AllTheModium** ores can be found across 3 dimensions: **Overworld**, **Nether**, and **The End**, normally exposed to **AIR**.
+**Allthemodium** ores can be found across 3 dimensions: **Overworld**, **Nether**, and **The End**, normally exposed to **AIR**.
 
-- **AllTheModium**: (Overworld) ![](img/allthemodium_ore.gif){.absolute style='margin-left:5px'} ![](img/allthemodium_ingot.png){.absolute style='margin-left:45px'}
+- **Allthemodium**: (Overworld) ![](img/allthemodium_ore.gif){.absolute style='margin-left:5px'} ![](img/allthemodium_ingot.png){.absolute style='margin-left:45px'}
     - Found in [Deep Dark](https://minecraft.wiki/w/Deep_Dark) Biome, also in **Mining Dimension** Deep Slate layer (Y 65-129).
         - **Mining Dimension** is more rare, at-least 1 ore per chunk.
         - Killing **Warden** also grants a Quest reward ATM Ingot.
@@ -31,7 +31,7 @@ In **ATM9**, All The Modium has changed in ways different from previous packs. W
 
 ### Templates
 
-- **AllTheModium**: ![](img/allthemodium_upgrade_smithing_template.png){.absolute style='margin-left:5px'} 
+- **Allthemodium**: ![](img/allthemodium_upgrade_smithing_template.png){.absolute style='margin-left:5px'} 
     - Found in **Sus Clay** in **Ancient Cities** within the **Overworld**.
 
 ![](https://media.discordapp.net/attachments/1118377751976624149/1155274362312724560/image.png){width='300px'}
