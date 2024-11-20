@@ -7,6 +7,9 @@ authors:
 
 # Apothic Enchanting
 
+???+ danger "OUTDATED"
+	Due to an update at some point to Apothic Enchanting, all setups in this guide will not yield the intended values. Even the in-game questline has some incorrect setups. This guide will be updated with new setups later.
+
 ## Max Enchanting Setup
 
 ??? information "Max Enchanting Shelves List"
