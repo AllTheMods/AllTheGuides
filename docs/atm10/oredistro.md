@@ -64,7 +64,7 @@ authors:
 | Silver Ore | 34 | -62 |
 | Tin Ore | 181 | -62 |
 | Tungsten Ore | 154 | 65 |
-| Uraninite Ore | 250 | 5 |
+| Uraninite Ore | 250 | 65 |
 | Uranium Ore | 157 | -62 |
 | Xychorium Colored Ore | 250 | 65 |
 | Zinc Ore | 128 | -62 |
