@@ -46,7 +46,7 @@ authors:
 | Iridium Ore | 146 | 65 |
 | Iron Ore | 247 | 65 |
 | Lapis Lazuli Ore | 146 | 65 |
-| Lead Ore | 34 | 62 |
+| Lead Ore | 34 | -62 |
 | Lignite Coal Ore | 250 | 65 |
 | Mithril Ore | 250 | 65 |
 | Monazite Ore | 154 | 65 |
