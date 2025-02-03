@@ -25,7 +25,7 @@ description: Current Team Members!
 
 ---
 
-#### Modpack Development Team
+#### Modpack Team
 
 - `Arochio`
 - `Bathsalts`
@@ -40,14 +40,13 @@ description: Current Team Members!
 - `Toblerone0508`
 - `ToshibaMicrowave`
 - `Uncandango`
-- `ZephyrWindSpirit 🐉`
 
 ---
 
-#### All The Team
+#### Moderation Team
 
-- `Alekthefirst`
 - `Bored`
+- `Helix_Ranmaru`
 - `Jonh09`
 - `Klonoa`
 - `RadzRatz`
@@ -60,6 +59,7 @@ description: Current Team Members!
 #### Former - Retired
 
 - `0mega420`
+- `Alekthefirst`
 - `AlfredGG` | **(Former QuestDev)**
 - `BeeJnugggets`
 - `Billy`
@@ -76,6 +76,7 @@ description: Current Team Members!
 - `uʍopǝpᴉsdn`
 - `Yumi`
 - `wva`
+- `ZephyrWindSpirit 🐉`
 
 ---
 
